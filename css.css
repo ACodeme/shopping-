@@ -1,0 +1,52 @@
+.wide {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 200px;
+}
+.small {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
+  padding-top: 10px;
+}
+.tick {
+  width: 100px;
+  height: 100px;
+}
+.intro {
+  margin-top: 0;
+  padding: 10px 10px 10px 10px;
+  color: #FA3214;
+  font-family: 'Hind Vadodara', sans-serif;
+}
+.blue {
+  background-color: #15FA8F;
+  margin: 0;
+}
+.list {
+  border: none;
+}
+body {
+	margin: 0;
+
+}
+h6 {
+	margin: 0;
+}
+.credits {
+	background-color: grey;
+	padding: 10px 10px 10px 10px;
+}
+.vip {
+	font-style: italic;
+}
+h4 {
+  font-family: 'Baskervville', serif;
+}
+h6{
+  font-family: 'Baskervville', serif;
+}
